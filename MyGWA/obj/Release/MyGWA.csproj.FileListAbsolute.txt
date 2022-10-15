@@ -1,0 +1,13 @@
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\bin\Release\MyGWA.exe
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\bin\Release\MyGWA.pdb
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.csprojAssemblyReference.cache
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.Information.resources
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.IntroForm.resources
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.MainForm12.resources
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.Properties.Resources.resources
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.ResultForm.resources
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.SubjectForm.resources
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.csproj.GenerateResource.cache
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.csproj.CoreCompileInputs.cache
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.exe
+C:\Users\CEDDYY\source\repos\MyGWA\MyGWA\obj\Release\MyGWA.pdb
